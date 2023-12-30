@@ -1,0 +1,24 @@
+{
+  "name": "simple-memer-bot-stable",
+  "version": "1.0.0",
+  "description": "Simple memer bot is a simple yet fantastic bot for fun commands and memes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SweetieRick/Simple-Memer-Bot.git"
+  },
+  "author": "SweetieRick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SweetieRick/Simple-Memer-Bot/issues"
+  },
+  "homepage": "https://github.com/SweetieRick/Simple-Memer-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "eslint": "^7.11.0"
+  }
+}
