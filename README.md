@@ -1,7 +1,6 @@
-# Simple Memer Bot
+# Memer Bot
 
-> Simple memer bot is a simple yet fantastic bot for fun commands and loads of memes!
-> ❤️ Made with love and memes by SweetieRick
+> memer bot is a simple yet fantastic bot for fun commands and loads of memes!
 
 ## 🤌🏽🍝 Features
 
@@ -78,11 +77,3 @@ See more stuff to rip me off better... I mean sharing! _yeah.._
 - [3dlDecompilation](null)
 - [SimpleManagerBot](https://github.com/SweetieRick/Simple-Manager-Bot)
 - And some more! Look at my profile for more info
-
-## 📄 License
-
-ISC - Open source, as always!
-Be sure to credit me or [this](https://github.com/SweetieRick/Simple-Memer-Bot/tree/stable) repository when using my code on your own!
-Also, if you want to upload your version of my code on GitHub, you can always **fork** this repo!
-
-💚 ~ Thanks, from SweetieRick
